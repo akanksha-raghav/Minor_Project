@@ -1,0 +1,95 @@
+{
+    "opensource": [
+        {
+            "logo": "https://developers.google.com/season-of-docs/images/logo/SeasonofDocs_Logo_SecondaryGrey_300ppi.png",
+            "link": "https://developers.google.com/season-of-docs",
+            "name": "Season of Docs"
+        },
+        {
+            "logo": "https://wiki.mozilla.org/images/thumb/2/25/WinterOfSecurity_logo_light_horizontal.png/750px-WinterOfSecurity_logo_light_horizontal.png",
+            "link": "https://wiki.mozilla.org/Security/Automation/Winter_Of_Security_2016",
+            "name": "Mozilla Winter of Security"
+        },
+        {
+            "logo": "https://pbs.twimg.com/media/EXL2N95U4AAs-ce.png",
+            "link": "https://www.outreachy.org/",
+            "name": "Outreachy"
+        },
+        {
+            "logo": "https://miro.medium.com/max/300/1*XimfIbMDuI3jEBc76al0FQ.png",
+            "link": "https://railsgirlssummerofcode.org/",
+            "name": "RGSOC"
+        },
+        {
+            "logo": "https://people.communitybridge.org/assets/cb-p-horizontal-white.svg",
+            "link": "https://people.communitybridge.org/",
+            "name": "Community Bridge Mentorship (by Linux Foundation)"
+        },
+        {
+            "logo": "https://wiki.linuxfoundation.org/_media/wiki/logo.png",
+            "link": "https://wiki.linuxfoundation.org/lkmp",
+            "name": "Linux Kernel Mentorship Program"
+        },
+        {
+            "logo": "https://www.igalia.com/assets/i/logo.png",
+            "link": "https://www.igalia.com/about/",
+            "name": "Igalia Coding Experience Program"
+        },
+        {
+            "logo": "https://www.gnome.org/wp-content/themes/gnome-grass/images/gnome-logo.svg",
+            "link": "https://wiki.gnome.org/Internships",
+            "name": "GNOME Internship Program"
+        },
+        {
+            "logo": "https://www.redox-os.org/img/icon.png",
+            "link": "redox-os.org/rsoc/",
+            "name": "Redox Summer Of Code"
+        },
+        {
+            "logo": "https://fossasia.org/img/fossasia-dark.png",
+            "link": "https://fossasia.org/",
+            "name": "FOSSASIA Internship Programme"
+        },
+        {
+            "logo": "https://summerofcode.be/img/logo/logo-osoc-color.svg",
+            "link": "https://summerofcode.be/",
+            "name": "Open Summer of Code"
+        },
+        
+        {
+            "logo": "https://static.fsf.org/common/img/logo-new.png",
+            "link": "https://www.fsf.org/volunteer/internships",
+            "name": "Free Software Foundation Internship"
+        },
+        {
+            "logo": "https://developers.google.com/open-source/gsoc/resources/downloads/GSoC-logo-horizontal.svg",
+            "link": "https://summerofcode.withgoogle.com/",
+            "name": "GSOC"
+        },
+        {
+            "logo": "https://lab.codingblocks.com/assets/img/avatar.png",
+            "link": "https://lab.codingblocks.com/",
+            "name": "Bountiful Open Source Summer- BOSS"
+        },
+        {
+            "logo": "https://www.quantopian.com/assets/logos/logo-q-white-b141ea6018546e5a4ecc3d10d8440ec076fc4385764e948b322828cc70950a76.svg",
+            "link": "https://www.quantopian.com/contest",
+            "name": "Quantopian Open"
+        },
+        {
+            "logo": "https://hacktoberfestswaglist.com/img/Hacktoberfest_20.jpg",
+            "link": "https://hacktoberfest.digitalocean.com/",
+            "name": "Hacktoberfest"
+        },
+        {
+            "logo": "https://24pullrequests.com/assets/logo-8a77737f86fec8def19a1c9a605c9841dbd44e59f243ed3bf64bbdf3214d6fa1.png",
+            "link": "https://24pullrequests.com/",
+            "name": "24 Pull Requests"
+        },
+        {
+            "logo": "https://www.gssoc.tech/images/type-logo.png",
+            "link": "https://www.gssoc.tech/",
+            "name": "GSSOC"
+        }
+    ]
+}
