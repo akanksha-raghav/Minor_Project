@@ -19,7 +19,7 @@ const maintile = () => {
                     about{" "}
                   </p>
 
-                  <p> &nbsp; &nbsp; - Campus Ambessador Programs</p>
+                  <p> &nbsp; &nbsp; - Campus Ambassador Programs</p>
                   <p>&nbsp; &nbsp; - Active Scholarships</p>
                   <p>&nbsp; &nbsp; - Full Time Opportunties</p>
                   <p>&nbsp; &nbsp; - Intern Openings</p>
@@ -40,7 +40,7 @@ const maintile = () => {
            <div className="box">
             <p className="has-text-centered ">
               <b>
-                Whichever listing you looking for, we have a dedicated section
+                Whichever listing you are looking for, we have a dedicated section
                 for it!{" "}
               </b>
             </p>
