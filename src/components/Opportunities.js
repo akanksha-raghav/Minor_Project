@@ -135,7 +135,7 @@ const Opportunities = () => {
               </div>
               <div className="column is-9">
                 <p className="is-size-4 has-text-white has-text-justify has-text-weight-bold">
-                  Internship Opportunties
+                  Internship Opportunities
                   <br />
                   <br />
                 </p>

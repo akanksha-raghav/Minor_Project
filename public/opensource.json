@@ -1,7 +1,7 @@
 {
     "opensource": [
         {
-            "logo": "https://developers.google.com/season-of-docs/images/logo/SeasonofDocs_Logo_SecondaryGrey_300ppi.png",
+            "logo": "https://upload.wikimedia.org/wikipedia/commons/0/08/SeasonofDocs_Logo_MainGrey_72ppi.png",
             "link": "https://developers.google.com/season-of-docs",
             "name": "Season of Docs"
         },
@@ -11,7 +11,7 @@
             "name": "Mozilla Winter of Security"
         },
         {
-            "logo": "https://pbs.twimg.com/media/EXL2N95U4AAs-ce.png",
+            "logo": "https://cdn-media-1.freecodecamp.org/images/b-dH-s55d1HXEBiv3uiVe3RocpZ6LQylbhRV",
             "link": "https://www.outreachy.org/",
             "name": "Outreachy"
         },
@@ -62,7 +62,7 @@
             "name": "Free Software Foundation Internship"
         },
         {
-            "logo": "https://developers.google.com/open-source/gsoc/resources/downloads/GSoC-logo-horizontal.svg",
+            "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/85/GSoC-icon.svg/1200px-GSoC-icon.svg.png",
             "link": "https://summerofcode.withgoogle.com/",
             "name": "GSOC"
         },
