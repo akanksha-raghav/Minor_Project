@@ -11,14 +11,14 @@ const card = (elem) => {
         padding: "10px",
       }}
     >
-      <div class="has-text-centered">
+      <div className="has-text-centered">
         <img
           src={elem.data.elem.logo}
           alt={elem.data.elem.name}
           height="50px"
           width="50px"
         />
-        <p class="is-size-5">
+        <p className="is-size-5">
           {" "}
           <a
             href={elem.data.elem.link}
