@@ -15,3 +15,14 @@ Builds the app for production to the build folder.<br />
 It correctly bundles React in production mode and optimizes the build for the best performance.<br />
 
 App is ready to be deployed!
+const githubAPI = "https://api.github.com"
+const commitsEndpoint = "/repos/csitauthority/CSITauthority.github.io/commits"
+const commitsURL = githubAPI + commitsEndpoint
+const filepath = "HUGO/content/post/vlan-101.md"
+fetch(commitsURL + "?path=" + filepath)
+  .then(response => response.json())
+  .then(commits => {
+    for (var i = 0; i < commits.length; i++) {
+      console.log(commits[i].commit.author.name)
+    }
+  })
