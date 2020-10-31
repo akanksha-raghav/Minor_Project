@@ -63,7 +63,7 @@ const CA = () => {
             return (
               <div
                 className="column is-one-quarter"
-                style={{ paddingLeft: "60px", paddingTop: "30px" }}
+                style={{ paddingLeft: "60px", paddingTop: "30px"}}
                 key={elem.name}
               >
                 <Card data={{ elem }} />
