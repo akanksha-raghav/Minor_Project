@@ -1,20 +1,23 @@
 import React from "react";
-import "./App.css";
 import { BrowserRouter as Router, Switch, Route } from "react-router-dom";
+
+import "./App.css";
+
 import Ca from "./components/pages/CA";
-import Intern from "./components/pages/Internship";
-import FullTime from "./components/pages/FullTime";
-import Scholarships from "./components/pages/Scholarship";
-import MainPage from "./MainPage";
-import Header from "./components/HeaderPage";
-import Os from "./components/pages/opensourceprogram"
-import Swag from "./components/pages/codeandgrab"
 import Footer from "./components/footer/Footer";
+import FullTime from "./components/pages/FullTime";
+import Header from "./components/HeaderPage";
+import Intern from "./components/pages/Internship";
+import MainPage from "./MainPage";
+import Os from "./components/pages/opensourceprogram";
+import Scholarships from "./components/pages/Scholarship";
+import Swag from "./components/pages/codeandgrab";
 
 function App() {
   return (
     <div>
-       <Header />
+      <Header />
+      <div style={{ height: "100px", background: "white" }}></div>
       <Router>
         <Switch>
           <Route path="/" exact component={MainPage} />
