@@ -30,7 +30,7 @@ const AboutUs = () => {
               <br />
               <br />
               <br />
-              Wonder what/why we are? &#129320;
+              Wonder what/why we are? &#128526;
             </h1>
             <h2 className="subtitle has-text-weight-semibold">
               <p> - Scodex is a product of SCI (Student Code In)</p>
