@@ -1,5 +1,5 @@
 # Minor_Project
-Student Mantras is a react based web application for listing various opportunities. 
+Student Mantras is a react based web application for listing various opportunities.
 To deploy this app on localhost:<br />
 In the project directory, you can run:<br />
 
