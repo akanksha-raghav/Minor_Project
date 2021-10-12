@@ -12,6 +12,7 @@ import MainPage from "./MainPage";
 import Os from "./components/pages/opensourceprogram";
 import Scholarships from "./components/pages/Scholarship";
 import Swag from "./components/pages/codeandgrab";
+import Feedback from "./components/pages/Feedback/feedback";
 
 function App() {
   return (
@@ -27,6 +28,7 @@ function App() {
           <Route path="/campusambassador" component={Ca} />
           <Route path="/opensource" component={Os} />
           <Route path="/codeandgrab" component={Swag} />
+          <Route path="/studentmantrafeedback" component={Feedback} />
         </Switch>
       </Router>
       <Footer />

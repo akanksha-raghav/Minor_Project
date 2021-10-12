@@ -57,8 +57,7 @@ const ContactUs = () => {
               <p>
                 <br />
                 <a
-                  href="https://www.shortto.com/studentmantrafeedback"
-                  target="_blank"
+                  href="/studentmantrafeedback"
                   rel="noopener noreferrer"
                 >
                   {" "}
