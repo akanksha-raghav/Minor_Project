@@ -55,7 +55,6 @@
             "link": "https://summerofcode.be/",
             "name": "Open Summer of Code"
         },
-        
         {
             "logo": "https://static.fsf.org/common/img/logo-new.png",
             "link": "https://www.fsf.org/volunteer/internships",
@@ -72,12 +71,12 @@
             "name": "Bountiful Open Source Summer- BOSS"
         },
         {
-            "logo": "https://media.quantopian.com/logos/logo-q-press-red.png",
+            "logo": "https://upload.wikimedia.org/wikipedia/en/thumb/d/de/Quantopian_logo_2017.png/220px-Quantopian_logo_2017.png",
             "link": "https://www.quantopian.com/contest",
             "name": "Quantopian Open"
         },
         {
-            "logo": "https://hacktoberfestswaglist.com/img/Hacktoberfest_20.jpg",
+            "logo": "https://pbs.twimg.com/profile_images/1436378917493948417/Hq3myvZI_200x200.jpg",
             "link": "https://hacktoberfest.digitalocean.com/",
             "name": "Hacktoberfest"
         },
@@ -87,7 +86,7 @@
             "name": "24 Pull Requests"
         },
         {
-            "logo": "https://www.gssoc.tech/images/type-logo.png",
+            "logo": "https://gssoc.girlscript.tech/images/favicon/favicon.png",
             "link": "https://www.gssoc.tech/",
             "name": "GSSOC"
         }
