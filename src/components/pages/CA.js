@@ -1,21 +1,24 @@
-import React, { useState, useEffect} from "react";
-import axios from "axios";
-import Card from "../card";
+import React, { useState, useEffect } from 'react'
+import axios from 'axios'
+import Card from '../card'
 
 const CA = () => {
-  const [data, setData] = useState(null);
+  const [data, setData] = useState(null)
   useEffect(() => {
     axios
-      .get("./ca.json")
+      .get('./ca.json')
       .then((res) => {
-        setData(res.data.ca);
+        setData(res.data.ca)
       })
-      .catch((err) => console.log(err.data));
-  }, []);
+      .catch((err) => console.log(err.data))
+  }, [])
 
   return (
     <section className="section">
-      <div className="hero-body columns" style={{ paddingBottom: "2rem" , marginTop:"100px" }}>
+      <div
+        className="hero-body columns"
+        style={{ paddingBottom: '2rem', marginTop: '100px' }}
+      >
         <div className="coulmn is-6">
           <center>
             <a
@@ -27,17 +30,17 @@ const CA = () => {
                 src="https://i.ibb.co/2qK1ZSc/intro.png"
                 alt="student mantra"
                 width="100%"
-              />{" "}
+              />{' '}
             </a>
           </center>
         </div>
-        <div className="column is-6" style={{ marginLeft: "100px" }}>
+        <div className="column is-6" style={{ marginLeft: '100px' }}>
           <div className="container">
             <h1 className="title">
               <br />
               <br />
               <br />
-              Campus Ambessador Programs &#129300;
+              Campus Ambassador Programs &#129300;
             </h1>
             <h2 className="subtitle has-text-weight-semibold">
               <p>
@@ -63,16 +66,16 @@ const CA = () => {
             return (
               <div
                 className="column is-one-quarter"
-                style={{ paddingLeft: "60px", paddingTop: "30px"}}
+                style={{ paddingLeft: '60px', paddingTop: '30px' }}
                 key={elem.name}
               >
                 <Card data={{ elem }} />
               </div>
-            );
+            )
           })}
       </div>
     </section>
-  );
-};
+  )
+}
 
-export default CA;
+export default CA
