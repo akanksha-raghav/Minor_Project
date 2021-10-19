@@ -19,8 +19,10 @@ const card = (elem) => {
         <img
           src={elem.data.elem.logo}
           alt={elem.data.elem.name}
-          height="50px"
-          width="50px"
+          style={{
+            maxHeight: '50px',
+            width: 'auto',
+          }}
         />
         <p className="is-size-5">
           {' '}
