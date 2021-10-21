@@ -36,7 +36,7 @@ const Opensource = () => {
               <br />
               <br />
               <br />
-              Opensource Porgrams &#129300;
+              Opensource Porgrams &#128519;&#128187;
             </h1>
             <h2 className="subtitle has-text-weight-semibold">
               <p>

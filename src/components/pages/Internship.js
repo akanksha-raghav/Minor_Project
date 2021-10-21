@@ -36,7 +36,7 @@ const Internship = () => {
               <br />
               <br />
               <br />
-              Internships &#129300;
+              Internships &#128512;&#128640;
             </h1>
             <h2 className="subtitle has-text-weight-semibold">
               <p>

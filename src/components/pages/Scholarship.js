@@ -36,7 +36,7 @@ const Scholarship = () => {
               <br />
               <br />
               <br />
-              Scholarships &#129300;
+              Scholarships &#128516;&#127891;
             </h1>
             <h2 className="subtitle has-text-weight-semibold">
               <p>
