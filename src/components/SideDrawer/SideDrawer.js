@@ -14,25 +14,25 @@ const sideDrawer = (props) => {
           <a href="/"> Home</a>
         </li>
        <li>
-          <a href="/#campusambassador"> Campus</a>
+          <a href="/campusambassador"> Campus</a>
         </li>
        <li>
-          <a href="/#scholarships"> Scholarships</a>
+          <a href="/scholarships"> Scholarships</a>
         </li>
        <li>
-          <a href="/#internships"> Internship</a>
+          <a href="/internships"> Internship</a>
         </li>
        <li>
-          <a href="/#fulltime"> Full Time</a>
+          <a href="/fulltime"> Full Time</a>
         </li>
        <li>
-          <a href="/#opensource"> Open-Source</a>
+          <a href="/opensource"> Open-Source</a>
         </li>
        <li>
-          <a href="/#codeandgrab"> Code and Grab</a>
+          <a href="/codeandgrab"> Code and Grab</a>
         </li>
         <li>
-          <a href="/#contact">Contact Us</a>
+          <a href="/contact">Contact Us</a>
         </li>
       </ul>
     </nav>

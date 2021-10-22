@@ -36,7 +36,7 @@ const FullTime = () => {
               <br />
               <br />
               <br />
-              FullTime Opportunities &#129300;
+              FullTime Opportunities &#129297;&#128188;
             </h1>
             <h2 className="subtitle has-text-weight-semibold">
               <p>

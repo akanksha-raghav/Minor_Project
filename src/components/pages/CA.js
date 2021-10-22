@@ -40,7 +40,7 @@ const CA = () => {
               <br />
               <br />
               <br />
-              Campus Ambassador Programs &#129300;
+              Campus Ambassador Programs &#128526;&#128226;
             </h1>
             <h2 className="subtitle has-text-weight-semibold">
               <p>
