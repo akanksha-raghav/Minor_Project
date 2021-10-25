@@ -42,7 +42,7 @@ const FullTime = () => {
               <p>
                 Full-time may refer to: Full-time job, employment in which a
                 person works a minimum number of hours defined as such by their
-                employer. Full-time equivalent, a unit that indicates the
+                employer. ... Full-time equivalent, a unit that indicates the
                 workload of an employed person or student.
               </p>
             </h2>
