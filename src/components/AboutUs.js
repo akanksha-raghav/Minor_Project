@@ -38,16 +38,14 @@ const AboutUs = () => {
               <p>
                 {" "}
                 - We aim to provide information of some of the popular Campus
-                Ambassador &nbsp; &nbsp; &nbsp; programs, Scholarships and Job
+                Ambassador programs, Scholarships and Job
                 Opportunities.
               </p>
               <p>
                 {" "}
                 - The pivot of our concern is in making every developer and
-                enthusiastic &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;
-                &nbsp; learner, leader and achiever to contribute and interact
-                to amazing &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp;
-                &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; people in and around
+                enthusiastic learner, leader and achiever to contribute and interact
+                to amazing people in and around
                 industry.
               </p>
             </h2>
